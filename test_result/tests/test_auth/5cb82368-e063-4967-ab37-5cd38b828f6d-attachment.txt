@@ -1,0 +1,6 @@
+Input mail
+Input password
+Click login button
+Current url https://my.exkavator.ru/
+Made screenshot
+logout account

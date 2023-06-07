@@ -1,0 +1,11 @@
+
+-----
+Test: tests/test_auth.py::Test_authorization::test_auth_valid_data (call)
+Start time: 2023-06-07 19:22:29.614228
+Start name method: authorization
+
+End time: 2023-06-07 19:22:31.430374
+End name method: authorization
+URL: https://my.exkavator.ru/
+
+-----

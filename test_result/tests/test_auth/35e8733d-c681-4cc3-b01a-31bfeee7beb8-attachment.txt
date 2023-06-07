@@ -1,0 +1,5 @@
+Input mail
+Input password
+Click login button
+Made screenshot
+Clear email and password
